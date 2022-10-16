@@ -3799,3 +3799,4 @@ first contributions - hanyang univ.
 - [Ayman Sayed](https://github.com/ayman-tech) 👋
 -[Deep Chakraborty]{https://github.com/into-deepth}
 - [Aamir041](https://github.com/Aamir041)
+- [Parth Solanki](https://github.com/iZnoGouD69)
